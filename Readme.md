@@ -42,3 +42,6 @@ haproxy.sh
 - https://shadowsocks.be/10.html
 
 Copyright (C) 2014-2018 Teddysun
+
+魔改BBR：
+https://www.moerats.com/archives/387/
